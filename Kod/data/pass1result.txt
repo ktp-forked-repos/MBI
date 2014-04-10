@@ -1,0 +1,12 @@
+1 possible combinations of variants for marker 'A'
+3,4	
+
+3 possible combinations of variants for marker 'B'
+1,3	
+2,3	
+3,3	
+
+2 possible combinations of variants for marker 'C'
+1,2	
+2,2	
+

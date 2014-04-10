@@ -1,0 +1,2 @@
+Projekt 8, mieszaniny DNA
+Przy badaniu DNA dla celów kryminalistycznych okreœla siê warianty w wybranych miejscach genomu (nazywanych markerami), patrz wyk³ad dotycz¹cy profili genetycznych. Napisz aplikacjê, która dla danego profilu mieszaniny (obejmuj¹cego wiele markerów) obliczy wszystkie mo¿liwe profile dla dwu osób i dla trzech osób, a nastêpnie okreœli poprawne profile drugiej osoby (zak³adaj¹c, ¿e w mieszaninie bêd¹ dwie osoby i profil pierwszej osoby jest znany), lub drugiej i trzeciej osoby (zak³adaj¹c, ¿e w mieszaninie bêd¹ trzy osoby)
